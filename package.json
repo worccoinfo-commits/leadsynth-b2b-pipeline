@@ -1,0 +1,23 @@
+{
+  "name": "leadsynth-b2b-pipeline",
+  "version": "1.0.0",
+  "description": "High-Throughput B2B Prospect Discovery and Data Enrichment Engine",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "b2b-sales",
+    "lead-generation",
+    "playwright",
+    "data-enrichment",
+    "growth-engineering",
+    "automation"
+  ],
+  "author": "Rishav Bhardwaj",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
